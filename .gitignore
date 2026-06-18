@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+html-hybrid-export*/
+layers/
+_tmp/

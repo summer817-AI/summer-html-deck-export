@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Deck Export"
+  short_description: "Convert HTML slide decks to PDF and editable-text PPTX."
+  default_prompt: "Convert this HTML slide deck to a 16:9 PDF and editable-text PPTX."
